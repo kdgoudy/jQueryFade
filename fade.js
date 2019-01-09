@@ -1,3 +1,3 @@
 $("button").on("click", function(){
-  $("div").toggle(2000);
+  $("div").toggle(4000);
 });
